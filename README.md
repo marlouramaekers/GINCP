@@ -15,7 +15,7 @@ The goal of the project is to make the data and documentation publicly available
 
 ## Roadmap
 
-This section outlines the roadmap of this project. Because the project is in an early phase, there is little room for input from externa contributors at the moment. However, in later stages (especially point 5), we invite external contributors and users to give feedback on the dataset and the documentation.
+This section outlines the roadmap of this project. Because the project is in an early phase, there is little room for input from external contributors at the moment. However, in later stages (especially point 5), we invite external contributors and users to give feedback on the dataset and the documentation.
 
 2. **Create a data harmonization plan:** Questions may not be asked in a similar way in every survey round or have different response options. To ensure that the data can be compared, the data needs to be harmonized.
 3. **Harmonize the data:** Action time! The data are harmonized in a consistent and cohorent way. Code for harmonization and merging data will be annotated
@@ -28,7 +28,12 @@ This section outlines the roadmap of this project. Because the project is in an 
 **Time line**
 We expect to reach milestone 2 and 4 by January. As of now it is not yet possible to predict when milestone 3 and 5 will be reached.
 
+## Data use, feedback and collaboration
 
+Because the project is in an early phase, it is currently not yet possible to use the GINCP data. If you would like to use the data at some point or have questions about data use, you can contact the data manager on the project [here](mailto:m.j.m.ramaekers@vu.nl).
 
+Due to the early stage of the project, we are not yet open to collaborate with others. You can, however, always provide feedback on the project or express your interest in future collaborations, you can contact us [here](mailto:m.j.m.ramaekers@vu.nl).
 
-## Completed milestones
+## Contributors
+
+**Marlou Ramaekers** is data manager of the Giving in the Netherlands project and postdoc researcher at the Centre for Philanthropy Studies at VU Amsterdam. She is trained as a sociologist and has a long experience of working with and collecting data. She was involved in the data collection of: [SOCON COVID-19 panel survey](https://doi.org/10.17026/dans-z93-whrh), [Helping others - a vignette study](https://doi.org/10.17026/dans-zpc-742n) and [Giving in the Netherlands 2024](https://osf.io/h68rx) (Dutch only). Her research focuses on informal helping and informal volunteering. She has a broader interest in participation and solidarity in society.
