@@ -23,7 +23,7 @@ This section outlines the roadmap of this project. Because the project is in an 
 
 **Completed milestones**
 1. **Select variables:** We want to share a first version of the data as soon as posible. Therefore, we start the project with a small selection of variables. This selection of variables will be expanded later.
-2. 2. **Create a data harmonization plan:** Questions may not be asked in a similar way in every survey round or have different response options. To ensure that the data can be compared, the data needs to be harmonized.
+2. **Create a data harmonization plan:** Questions may not be asked in a similar way in every survey round or have different response options. To ensure that the data can be compared, the data needs to be harmonized.
 
 **Time line**
 We expect to reach milestone 2 and 4 by January. As of now it is not yet possible to predict when milestone 3 and 5 will be reached.
